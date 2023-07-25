@@ -1,0 +1,6 @@
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Domain\bin\Debug\Domain.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Domain\bin\Debug\Domain.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Domain\obj\Debug\Domain.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Domain\obj\Debug\Domain.pdb

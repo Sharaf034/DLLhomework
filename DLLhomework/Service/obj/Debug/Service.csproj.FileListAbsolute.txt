@@ -1,0 +1,9 @@
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\bin\Debug\Service.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\bin\Debug\Service.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\bin\Debug\Domain.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\bin\Debug\Domain.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\obj\Debug\Service.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\DLLhomework\Service\obj\Debug\Service.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLhomework", "DLLhomework\DLLhomework.csproj", "{5C30A1A1-2875-4B9A-B281-40CD37390E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{F3E27DF7-5560-4A8B-81B5-53D12D1B11E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{73239D0C-E18D-4F99-8F00-56ABB1BF20AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C30A1A1-2875-4B9A-B281-40CD37390E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C30A1A1-2875-4B9A-B281-40CD37390E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C30A1A1-2875-4B9A-B281-40CD37390E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C30A1A1-2875-4B9A-B281-40CD37390E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E27DF7-5560-4A8B-81B5-53D12D1B11E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E27DF7-5560-4A8B-81B5-53D12D1B11E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E27DF7-5560-4A8B-81B5-53D12D1B11E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E27DF7-5560-4A8B-81B5-53D12D1B11E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73239D0C-E18D-4F99-8F00-56ABB1BF20AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73239D0C-E18D-4F99-8F00-56ABB1BF20AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73239D0C-E18D-4F99-8F00-56ABB1BF20AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73239D0C-E18D-4F99-8F00-56ABB1BF20AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BB0D63-AB59-4A97-9C71-081DD12E9526}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\bin\Debug\net6.0\Repeatclasswork.exe
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\bin\Debug\net6.0\Repeatclasswork.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\bin\Debug\net6.0\Repeatclasswork.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\bin\Debug\net6.0\Repeatclasswork.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\bin\Debug\net6.0\Repeatclasswork.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\refint\Repeatclasswork.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\Repeatclasswork.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homerepeat Abstraction\homework\Repeatclasswork\Repeatclasswork\obj\Debug\net6.0\ref\Repeatclasswork.dll
